@@ -1,0 +1,5 @@
+E:\PrivetProjects\Sanzit\Sanzit\Sanzit\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\PrivetProjects\Sanzit\Sanzit\Sanzit\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\PrivetProjects\Sanzit\Sanzit\Sanzit\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+E:\PrivetProjects\Sanzit\Sanzit\Sanzit\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\PrivetProjects\Sanzit\Sanzit\Sanzit\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs

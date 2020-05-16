@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanzit", "Sanzit\Sanzit.csproj", "{4FA4D2BB-8B24-4CBF-8E17-0AA1BB1B35A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sanzit", "Sanzit\Sanzit.csproj", "{4FA4D2BB-8B24-4CBF-8E17-0AA1BB1B35A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{F4C3B117-39BA-45D7-9189-C5FADEF6EC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8CAD4919-9E79-45FE-80B5-73EB53AA83D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{4FA4D2BB-8B24-4CBF-8E17-0AA1BB1B35A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA4D2BB-8B24-4CBF-8E17-0AA1BB1B35A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA4D2BB-8B24-4CBF-8E17-0AA1BB1B35A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C3B117-39BA-45D7-9189-C5FADEF6EC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C3B117-39BA-45D7-9189-C5FADEF6EC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C3B117-39BA-45D7-9189-C5FADEF6EC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C3B117-39BA-45D7-9189-C5FADEF6EC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CAD4919-9E79-45FE-80B5-73EB53AA83D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CAD4919-9E79-45FE-80B5-73EB53AA83D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CAD4919-9E79-45FE-80B5-73EB53AA83D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CAD4919-9E79-45FE-80B5-73EB53AA83D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
